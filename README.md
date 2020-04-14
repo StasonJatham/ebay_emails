@@ -23,8 +23,8 @@ cons_sec = tokens["cons_sec"]
 accs_tok = tokens["accs_tok"] 
 accs_sec = tokens["accs_sec"] 
 ```
-## Little something:
-This will get you the curreent trends oof ebay items.
+## Little something (depreceated):
+This will get you the trends on ebay (as a library)
 ```python
 import requests
 from bs4 import BeautifulSoup
